@@ -20,7 +20,6 @@ try {
     <p>${item.description}</p> 
   </div>
 </div>`).join('')
-	console.log(result);
 } catch (error) {
 	console.error(error);
 }
