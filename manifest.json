@@ -1,0 +1,11 @@
+{
+    "name": "London Concert Lineup",
+    "version": "1.0.0",
+    "description": "This is an extension to lookup Concerts coming up in London Ontario Canada",
+    "manifest_version": 3,
+    "author": "Dave Pettit",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "London Concert Lineup"
+    }
+}
