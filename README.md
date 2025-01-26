@@ -2,7 +2,7 @@
 ### Chrome Extension to display upcoming London Ontario Concerts
 
 ## Instructions for use
-1.Download/Clone this repo to a local Repository
+1. Download/Clone this repo to a local Repository
 2. In Chrome:
    - From the Cusomize and Control Google Chrome Access
      - ![image](https://github.com/user-attachments/assets/d6661873-937c-4bf3-851d-9f99247ec850)
